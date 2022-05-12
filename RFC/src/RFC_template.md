@@ -4,6 +4,8 @@
 
 ![status: raw](theme/images/status-raw.svg)
 
+Tracking issue: [assigned during WIP phase]()
+
 **Maintainer(s)**: <Maintainer name> <github username>
 
 # Licence
@@ -52,3 +54,6 @@ technological merits of the potential system outlined herein.
 
 ## Description
 
+# Change Log
+
+* **dd-mm-yyyy**: Summary of changes
